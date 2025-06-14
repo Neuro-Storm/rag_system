@@ -1,6 +1,8 @@
 # Папки с документами и индексами
 documents/
 index_store/
+rag_project_полный_код.txt
+combine_project.py
 
 # Файлы состояния и кэша
 *.pkl
