@@ -1,0 +1,13 @@
+gradio
+llama-index-core
+llama-index-vector-stores-faiss
+llama-index-embeddings-huggingface
+faiss-cpu
+transformers
+torch
+pytesseract
+python-docx
+python-pptx
+pandas
+pillow
+pypdf2

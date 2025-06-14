@@ -1,0 +1,25 @@
+# Папки с документами и индексами
+documents/
+index_store/
+
+# Файлы состояния и кэша
+*.pkl
+*.faiss
+
+# Временные файлы и кэш
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Файлы среды
+.env
+venv/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
