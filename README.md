@@ -5,8 +5,8 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-git clone https://github.com/ваш-аккаунт/rag-system.git
-cd rag-system
+git clone https://github.com/Neuro-Storm/rag_system.git
+cd rag_system
 
 2. Установите зависимости:
 
